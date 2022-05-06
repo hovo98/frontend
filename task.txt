@@ -1,0 +1,41 @@
+
+1. BinanceDex(2)
+{
+    "apiKey": "2c8fc18f-7253-4470-a196-97c1c3a1196a",
+    "rateLimitPerSecond": 5,
+    "title": "universal.exchange",
+    "allowedDomains": [
+        "http://localhost:3000"
+    ]
+}
+
+- show token list.
+- get best trade and show.
+- connect wallet
+- show balances.
+
+- swap
+- settings
+- header of beta.tide.exchange
+
+2. Cryptohopper
+https://docs.google.com/document/d/11nWEPp_KAoh0op0P0y4hLiI9VnNgJ9pSd7DTc4NHCyg/edit?usp=sharing
+https://www.figma.com/file/PoEvjs5HOtDryFdqLhHAzV/Hopper?node-id=0%3A1
+
+This week
+: Front-End without login/add hopper/trending tokens /Ui.
+
+
+2. ib strategy.
+
+*** develop only in trading software ***
+Hi, I have great interest in your project.
+I am a professional trading software developer with more than 10years experience.
+I have good skills to build strategy with tradingview's pinescript or mql4 of metatrader, but also I have good experience to build with broker's native apis.
+I am familiar with Forex and stock, cryptocurrency financial market.
+
+if you have clear idea to build strategy, i can deliver good result and will support all times.
+
+Can we discuss more detail ?
+
+Thank you.
